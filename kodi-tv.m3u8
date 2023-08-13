@@ -1,15 +1,15 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/au/Brisbane/epg.xml.gz"
 
-#EXTINF:-1 channel-id="mjh-seven-bri" tvg-id="mjh-seven-bri" tvg-logo="https://i.mjh.nz/.images/seven-bri.png" tvg-chno="70" group-title="Brisbane" , 7 Gold Coast
-https://csm-e-cen7ausw2live102-0a04683efbac561e8.tls1.yospace.com/csm/extlive/sevenprd01,GLD1HC.m3u8?appId=7plus&deviceType=androidtv&platformType=tv&ppId=44c616d5f57262ed59884ae4707d3d4542646b84d1187b4e13e68fabf698745c&videoType=live&accountId=5650355166001&advertId=null&uaId=null&optinDeviceType=adid&optinAdTracking=0&pc=3350&deviceId=fm-k_zfMS1it5axvWRqkRt&mstatus=true&omsdk=JnNka19hcGlzPTc%3d&ozid=b09f7dc3-3999-47c7-a09f-8dce404c0455&vid=6330164057112&yo.hb=5000&yo.ac=true&pp=csai-tv&custParams=rc%25253D5642%252526y%25253D2%252526c%25253Db%252526dpc%25253D1045%252526seriesid%25253DFWWH&y=2&c=b&dpc=1045&rc=5642&yo.lb=400&yo.pp=aGRudHM9ZXhwPTE2OTE5MDMxMTl-YWNsPS8qfmhtYWM9YmU0Y2MyNTk0Y2UzNjliZjRjZGQ2ZWU5MTk0OWYxMzU1YTM2ZjMyNDkyNzA4NTU2ZWIxNTQ3NzE5OWI5M2IzYyZQb2xpY3k9ZXlKVGRHRjBaVzFsYm5RaU9sdDdJa052Ym1ScGRHbHZiaUk2ZXlKRVlYUmxUR1Z6YzFSb1lXNGlPbnNpUVZkVE9rVndiMk5vVkdsdFpTSTZNVFk1TVRrd016RXhPWDBzSWtSaGRHVkhjbVZoZEdWeVZHaGhiaUk2ZXlKQlYxTTZSWEJ2WTJoVWFXMWxJam94TmpreE9ERTJOekU0ZlgxOVhYMF8mU2lnbmF0dXJlPUZYMHVoZUdjTTR6U0E0czB4Z3JYWVJFeG9FeHc5SGV1dmh2eEY2NUhjcXZmSXAzMWJlZkVaS1p1RmRUcG0zQ351aUhteTFBeDF1emtmdGswWnNubUN-TkZWaHdQeS1ITVpSRWRrTFRyYTRRY2U4Qk9pbXNBNmJzemVxNVZmYUx5WjQtREgxZDBmQ1VKSWR-dGdjRHdYdVRtcExMaC1rLUFRcHNIYzFtcjdVQWJEWXkzRElzMElHYkpZQWZ3ekVZVzE3aUdTMUtGSXJBZ2tDaS1aLUh0c34xTGlldVVKSFhWR3FOdVFFb2xIWVVJSjljTnB0fk9lUjY1YXp1TkNXUlpaV3Q4bGVkYjNvb3BIdE1WTUgyeTBlZjU4M0tRTXo5NW5QdDROVlFxcVFJelBZRlBiSDlFN1hGTEhGLVBXfkpMRThRbEJIS0FVUTBmakZxMGFlVVF6QV9fJktleS1QYWlyLUlkPUFQS0FJT1Q0TTZLTjZDUU9BV0VR&yo.oh=Y3NtLWUtbjdhdXMtZWIudGxzMS55b3NwYWNlLmNvbQ==|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+#EXTINF:-1 channel-id="mjh-seven-bri" tvg-id="mjh-seven-bri" tvg-logo="https://i.mjh.nz/.images/seven-bri.png" tvg-chno="70" group-title="Brisbane" , 7 Brisbane
+https://i.mjh.nz/seven-bri.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 
-#EXTINF:-1 channel-id="mjh-7two-bri" tvg-id="mjh-7two-bri" tvg-logo="https://i.mjh.nz/.images/7two-bri.png" tvg-chno="72" group-title="Brisbane" , 7TWO Gold Coast
+#EXTINF:-1 channel-id="mjh-7two-bri" tvg-id="mjh-7two-bri" tvg-logo="https://i.mjh.nz/.images/7two-bri.png" tvg-chno="72" group-title="Brisbane" , 7TWO Brisbane
 https://i.mjh.nz/7two-bri.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 
-#EXTINF:-1 channel-id="mjh-7mate-bri" tvg-id="mjh-7mate-bri" tvg-logo="https://i.mjh.nz/.images/7mate-bri.png" tvg-chno="74" group-title="Brisbane" , 7mate Gold Coast
+#EXTINF:-1 channel-id="mjh-7mate-bri" tvg-id="mjh-7mate-bri" tvg-logo="https://i.mjh.nz/.images/7mate-bri.png" tvg-chno="74" group-title="Brisbane" , 7mate Brisbane
 https://i.mjh.nz/7mate-bri.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 
-#EXTINF:-1 channel-id="mjh-7flix-bri" tvg-id="mjh-7flix-bri" tvg-logo="https://i.mjh.nz/.images/7flix-bri.png" tvg-chno="76" group-title="Brisbane" , 7flix Gold Coast
+#EXTINF:-1 channel-id="mjh-7flix-bri" tvg-id="mjh-7flix-bri" tvg-logo="https://i.mjh.nz/.images/7flix-bri.png" tvg-chno="76" group-title="Brisbane" , 7flix Brisbane
 https://i.mjh.nz/7flix-bri.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 
 #EXTINF:-1 channel-id="mjh-channel-9-qld-alt" tvg-id="mjh-channel-9-qld" tvg-logo="https://imageresizer.static9.net.au/HtBnd8GsZ-0m6XU8owz7-XYATt4=/1280x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2015%2F11%2F11%2F9_Colour_RGB.png" tvg-chno="90" group-title="Brisbane" , Channel 9 Brisbane
@@ -45,7 +45,7 @@ https://i.mjh.nz/10shake-qld.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.
 #EXTINF:-1 channel-id="mjh-racing-FAST" tvg-id="mjh-racing-FAST" tvg-logo="https://i.mjh.nz/.images/racing-FAST.png" tvg-chno="78" group-title="Au" , RACING.COM
 https://i.mjh.nz/racing-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 
-#EXTINF:-1 channel-id="mjh-7bravo-FAST" tvg-id="mjh-7bravo-FAST" tvg-logo="https://i.mjh.nz/.images/7bravo-FAST.png" tvg-chno="75" group-title="Au" , 7Bravo Gold Coast
+#EXTINF:-1 channel-id="mjh-7bravo-FAST" tvg-id="mjh-7bravo-FAST" tvg-logo="https://i.mjh.nz/.images/7bravo-FAST.png" tvg-chno="75" group-title="Au" , 7Bravo Brisbane
 https://i.mjh.nz/7bravo-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 
 #EXTINF:-1 channel-id="mjh-abc-kids" tvg-id="mjh-abc-kids" tvg-logo="https://i.mjh.nz/.images/abc-kids.png" tvg-chno="22" group-title="Au" , ABC Kids
