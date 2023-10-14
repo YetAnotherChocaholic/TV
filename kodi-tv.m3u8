@@ -46,7 +46,7 @@ https://i.mjh.nz/sbs-nitv.m3u8|x-forwarded-for=110.33.122.75&user-agent=Mozilla/
 https://i.mjh.nz/sbs-world-watch.m3u8|x-forwarded-for=110.33.122.75&user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 
 #EXTINF:-1 channel-id="431952auepg.com.au" tvg-id="431952auepg.com.au" tvg-logo="https://raw.githubusercontent.com/CrazyErrorGamer/IPTV/main/SkyNewsRegional2021.jpg" tvg-chno="53" group-title="Au" , Sky News Regional
-https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8|x-forwarded-for=110.33.122.75&user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00663-skynews-skynewsau-samsungau/playlist.m3u8|x-forwarded-for=110.33.122.75&user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 
 #EXTINF:-1 channel-id="18891auepg.com.au" tvg-id="18891auepg.com.au" tvg-logo="https://raw.githubusercontent.com/CrazyErrorGamer/IPTV/main/prime7-logo-2537528369.png" tvg-chno="60" group-title="Brisbane" , PRIME7 Gold Coast
 https://npc.cdn.7livecloud.io/hls/live/SYD1/master.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
