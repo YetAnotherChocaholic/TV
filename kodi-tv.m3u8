@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="10" tvg-id="mjh-10-qld" tvg-name="10" tvg-logo="https://i.mjh.nz/.images/ten-nsw.png" group-title="IPTV", 10
+https://i.mjh.nz/10-qld.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 #EXTINF:-1 tvg-chno="70" tvg-id="mjh-seven-bri" tvg-name=" 7 Gold Coast" tvg-logo="https://i.mjh.nz/.images/seven-bri.png" group-title="IPTV", 7 Gold Coast
 https://tbs.cdn.7livecloud.io/hls/live/GLD1/master_4000.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 #EXTINF:-1 tvg-chno="75" tvg-id="mjh-7bravo-FAST" tvg-name=" 7Bravo Gold Coast" tvg-logo="https://i.mjh.nz/.images/7bravo-FAST.png" group-title="IPTV", 7Bravo Gold Coast
