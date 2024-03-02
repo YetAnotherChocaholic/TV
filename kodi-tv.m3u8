@@ -27,7 +27,7 @@ https://c.mjh.nz/abc-me.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%
 https://c.mjh.nz/abc-news.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 #EXTINF:-1 tvg-chno="20" tvg-id="mjh-abc-qld" tvg-name=" ABC TV" tvg-logo="https://raw.githubusercontent.com/CrazyErrorGamer/IPTV/main/abctv.png" group-title="IPTV", ABC TV
 https://c.mjh.nz/abc-qld.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
-#EXTINF:-1 tvg-chno="25" tvg-id="mjh-abc-tv-plus" tvg-name=" ABC TV Plus" tvg-logo="https://i.mjh.nz/.images/abc-tv-plus.png" group-title="IPTV", ABC TV Plus
+#EXTINF:-1 tvg-chno="22" tvg-id="mjh-abc-tv-plus" tvg-name=" ABC TV Plus" tvg-logo="https://i.mjh.nz/.images/abc-tv-plus.png" group-title="IPTV", ABC TV Plus
 https://c.mjh.nz/abc-tv-plus.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 #EXTINF:-1 tvg-chno="90" tvg-id="mjh-channel-9-qld" tvg-name=" Channel 9 Brisbane" tvg-logo="https://raw.githubusercontent.com/CrazyErrorGamer/IPTV/main/nine.png" group-title="IPTV", Channel 9 Brisbane
 https://i.mjh.nz/channel-9-qld.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
@@ -42,7 +42,7 @@ https://i.mjh.nz/sbs-food.m3u8|x-forwarded-for=110.33.122.75&User-Agent=Mozilla/
 #EXTINF:-1 tvg-chno="30" tvg-id="mjh-sbs" tvg-name=" SBS ONE" tvg-logo="https://i.mjh.nz/.images/sbs.png" group-title="IPTV", SBS ONE
 https://i.mjh.nz/sbs.m3u8|x-forwarded-for=110.33.122.75&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 #EXTINF:-1 tvg-chno="70" tvg-id="mjh-seven-bri" tvg-name=" 7 Gold Coast" tvg-logo="https://i.mjh.nz/.images/seven-bri.png" group-title="IPTV", 7 Gold Coast
-https://tbs.cdn.7livecloud.io/hls/live/GLD1/master_4000.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+https://tbs.cdn.7livecloud.io/hls/live/GLD1/master_6500.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 #EXTINF:-1 tvg-chno="31" tvg-id="mjh-sbs-viceland" tvg-name=" SBS VICELAND" tvg-logo="https://i.mjh.nz/.images/sbs-viceland.png" group-title="IPTV", SBS VICELAND
 https://i.mjh.nz/sbs-viceland.m3u8|x-forwarded-for=110.33.122.75&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 #EXTINF:-1 tvg-chno="32" tvg-id="mjh-sbs-world-movies" tvg-name=" SBS World Movies" tvg-logo="https://i.mjh.nz/.images/sbs-world-movies.png" group-title="IPTV", SBS World Movies
