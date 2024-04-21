@@ -1,57 +1,57 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="22" tvg-id="mjh-abc-kids" tvg-name=" ABC Kids" tvg-logo="https://i.mjh.nz/.images/abc-kids.png" group-title="IPTV", ABCKids
+#EXTINF:-1 tvg-chno="22" tvg-id="284791auepg.com.au" tvg-name=" ABC Kids" tvg-logo="https://i.mjh.nz/.images/abc-kids.png" group-title="IPTV", ABCKids
 https://c.mjh.nz/abc-kids.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
-#EXTINF:-1 tvg-chno="23" tvg-id="mjh-abc-me" tvg-name=" ABC ME" tvg-logo="https://i.mjh.nz/.images/abc-me.png" group-title="IPTV", ABC ME
+#EXTINF:-1 tvg-chno="23" tvg-id="411316auepg.com.au" tvg-name=" ABC ME" tvg-logo="https://i.mjh.nz/.images/abc-me.png" group-title="IPTV", ABC ME
 https://c.mjh.nz/abc-me.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
-#EXTINF:-1 tvg-chno="24" tvg-id="mjh-abc-news" tvg-name=" ABC NEWS" tvg-logo="https://i.mjh.nz/.images/abc-news.png" group-title="IPTV", ABC NEWS
+#EXTINF:-1 tvg-chno="24" tvg-id="391135auepg.com.au" tvg-name=" ABC NEWS" tvg-logo="https://i.mjh.nz/.images/abc-news.png" group-title="IPTV", ABC NEWS
 https://c.mjh.nz/abc-news.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
-#EXTINF:-1 tvg-chno="20" tvg-id="mjh-abc-qld" tvg-name=" ABC TV" tvg-logo="https://raw.githubusercontent.com/CrazyErrorGamer/IPTV/main/abctv.png" group-title="IPTV", ABC TV
+#EXTINF:-1 tvg-chno="20" tvg-id="246952auepg.com.au" tvg-name=" ABC TV" tvg-logo="https://raw.githubusercontent.com/CrazyErrorGamer/IPTV/main/abctv.png" group-title="IPTV", ABC TV
 https://c.mjh.nz/abc-qld.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
-#EXTINF:-1 tvg-chno="22" tvg-id="mjh-abc-tv-plus" tvg-name=" ABC TV Plus" tvg-logo="https://i.mjh.nz/.images/abc-tv-plus.png" group-title="IPTV", ABC TVPlus
+#EXTINF:-1 tvg-chno="22" tvg-id="284791auepg.com.au" tvg-name=" ABC TV Plus" tvg-logo="https://i.mjh.nz/.images/abc-tv-plus.png" group-title="IPTV", ABC TVPlus
 https://c.mjh.nz/abc-tv-plus.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 #EXTINF:-1 tvg-chno="90" tvg-id="260450auepg.com.au" tvg-name=" Channel 9 Gold Coast" tvg-logo="https://raw.githubusercontent.com/CrazyErrorGamer/IPTV/main/nine.png" group-title="IPTV", Channel 9 Gold Coast
 https://9now-livestreams-v2.akamaized.net/prod/simulcast/gcq/ch9/hls/r1/index.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 #EXTINF:-1 tvg-chno="80" tvg-id="431558auepg.com.au" tvg-name=" Nine-NBN Gold Coast" tvg-logo="https://raw.githubusercontent.com/CrazyErrorGamer/IPTV/main/NBN.png" group-title="IPTV", Nine-NBN Gold Coast
 https://9now-livestreams-v2.akamaized.net/prod/simulcast/nlm/ch9/hls/r1/index.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
-#EXTINF:-1 tvg-chno="13" tvg-id="mjh-10shake-qld" tvg-name=" Nickelodeon " tvg-logo="https://i.mjh.nz/.images/10-nickelodeon.png" group-title="IPTV", Nickelodeon 
+#EXTINF:-1 tvg-chno="13" tvg-id="432258auepg.com.au" tvg-name=" Nickelodeon" tvg-logo="https://i.mjh.nz/.images/10-nickelodeon.png" group-title="IPTV", Nickelodeon 
 https://d1nti87v55zvqc.cloudfront.net/out/v1/8a1d942f281143e0b5d1e0b5179fc160/index_14.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
-#EXTINF:-1 tvg-chno="34" tvg-id="mjh-sbs-nitv" tvg-name=" NITV" tvg-logo="https://raw.githubusercontent.com/CrazyErrorGamer/IPTV/main/nitv.png" group-title="IPTV", NITV
+#EXTINF:-1 tvg-chno="34" tvg-id="432630auepg.com.au" tvg-name=" NITV" tvg-logo="https://raw.githubusercontent.com/CrazyErrorGamer/IPTV/main/nitv.png" group-title="IPTV", NITV
 https://i.mjh.nz/sbs-nitv.m3u8|x-forwarded-for=110.33.122.75&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
-#EXTINF:-1 tvg-chno="78" tvg-id="mjh-racing-FAST" tvg-name=" RACING.COM" tvg-logo="https://i.mjh.nz/.images/racing-FAST.png" group-title="IPTV", RACING.COM
+#EXTINF:-1 tvg-chno="78" tvg-id="431210auepg.com.au" tvg-name=" RACING.COM" tvg-logo="https://i.mjh.nz/.images/racing-FAST.png" group-title="IPTV", RACING.COM
 https://i.mjh.nz/racing-FAST.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
-#EXTINF:-1 tvg-chno="33" tvg-id="mjh-sbs-food" tvg-name=" SBS Food" tvg-logo="https://i.mjh.nz/.images/sbs-food.png" group-title="IPTV", SBS Food
+#EXTINF:-1 tvg-chno="33" tvg-id="431491auepg.com.au" tvg-name=" SBS Food" tvg-logo="https://i.mjh.nz/.images/sbs-food.png" group-title="IPTV", SBS Food
 https://i.mjh.nz/sbs-food.m3u8|x-forwarded-for=110.33.122.75&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
-#EXTINF:-1 tvg-chno="30" tvg-id="mjh-sbs" tvg-name=" SBS ONE" tvg-logo="https://i.mjh.nz/.images/sbs.png" group-title="IPTV", SBS ONE
+#EXTINF:-1 tvg-chno="30" tvg-id="391140auepg.com.au" tvg-name=" SBS ONE" tvg-logo="https://i.mjh.nz/.images/sbs.png" group-title="IPTV", SBS ONE
 https://i.mjh.nz/sbs.m3u8|x-forwarded-for=110.33.122.75&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
-#EXTINF:-1 tvg-chno="31" tvg-id="mjh-sbs-viceland" tvg-name=" SBS VICELAND" tvg-logo="https://i.mjh.nz/.images/sbs-viceland.png" group-title="IPTV", SBS VICELAND
+#EXTINF:-1 tvg-chno="31" tvg-id="431775auepg.com.au" tvg-name=" SBS VICELAND" tvg-logo="https://i.mjh.nz/.images/sbs-viceland.png" group-title="IPTV", SBS VICELAND
 https://i.mjh.nz/sbs-viceland.m3u8|x-forwarded-for=110.33.122.75&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
-#EXTINF:-1 tvg-chno="32" tvg-id="mjh-sbs-world-movies" tvg-name=" SBS World Movies" tvg-logo="https://i.mjh.nz/.images/sbs-world-movies.png" group-title="IPTV", SBS World Movies
+#EXTINF:-1 tvg-chno="32" tvg-id="432033auepg.com.au" tvg-name=" SBS World Movies" tvg-logo="https://i.mjh.nz/.images/sbs-world-movies.png" group-title="IPTV", SBS World Movies
 https://i.mjh.nz/sbs-world-movies.m3u8|x-forwarded-for=110.33.122.75&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 #EXTINF:-1 tvg-chno="35" tvg-id="mjh-sbs-world-watch" tvg-name=" SBS WorldWatch" tvg-logo="https://i.mjh.nz/.images/sbs-world-watch.png" group-title="IPTV", SBS WorldWatch
 https://i.mjh.nz/sbs-world-watch.m3u8|x-forwarded-for=110.33.122.75&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 #EXTINF:-1 tvg-chno="53" tvg-id="431952auepg.com.au" tvg-name=" Sky News Regional" tvg-logo="https://raw.githubusercontent.com/CrazyErrorGamer/IPTV/main/SkyNewsRegional2021.jpg" group-title="IPTV", Sky News Regional
 https://i.mjh.nz/sky-news-now.m3u8|x-forwarded-for=110.33.122.75&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
-#EXTINF:-1 tvg-chno="70" tvg-id="mjh-seven-bri" tvg-name=" 7 Gold Coast" tvg-logo="https://i.mjh.nz/.images/seven-bri.png" group-title="IPTV", 7 Gold Coast
+#EXTINF:-1 tvg-chno="70" tvg-id="92783auepg.com.au" tvg-name=" 7 Gold Coast" tvg-logo="https://i.mjh.nz/.images/seven-bri.png" group-title="IPTV", 7 Gold Coast
 https://tbs.cdn.7livecloud.io/hls/live/GLD1/master.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
-#EXTINF:-1 tvg-chno="75" tvg-id="mjh-7bravo-FAST" tvg-name=" 7Bravo Gold Coast" tvg-logo="https://i.mjh.nz/.images/7bravo-FAST.png" group-title="IPTV", 7Bravo Gold Coast
+#EXTINF:-1 tvg-chno="75" tvg-id="432452auepg.com.au" tvg-name=" 7Bravo Gold Coast" tvg-logo="https://i.mjh.nz/.images/7bravo-FAST.png" group-title="IPTV", 7Bravo Gold Coast
 https://i.mjh.nz/7bravo-FAST.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
-#EXTINF:-1 tvg-chno="76" tvg-id="mjh-7flix-bri" tvg-name=" 7flix Gold Coast" tvg-logo="https://i.mjh.nz/.images/7flix-bri.png" group-title="IPTV", 7flix Gold Coast
+#EXTINF:-1 tvg-chno="76" tvg-id="431816auepg.com.au" tvg-name=" 7flix Gold Coast" tvg-logo="https://i.mjh.nz/.images/7flix-bri.png" group-title="IPTV", 7flix Gold Coast
 https://i.mjh.nz/7flix-bri.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
-#EXTINF:-1 tvg-chno="74" tvg-id="mjh-7mate-bri" tvg-name=" 7mate Gold Coast" tvg-logo="https://i.mjh.nz/.images/7mate-bri.png" group-title="IPTV", 7mate Gold Coast
+#EXTINF:-1 tvg-chno="74" tvg-id="432005auepg.com.au" tvg-name=" 7mate Gold Coast" tvg-logo="https://i.mjh.nz/.images/7mate-bri.png" group-title="IPTV", 7mate Gold Coast
 https://tbs.cdn.7livecloud.io/hls/live/BRI3/master.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
-#EXTINF:-1 tvg-chno="72" tvg-id="mjh-7two-bri" tvg-name=" 7TWO Gold Coast" tvg-logo="https://i.mjh.nz/.images/7two-bri.png" group-title="IPTV", 7TWO Gold Coast
+#EXTINF:-1 tvg-chno="72" tvg-id="410800auepg.com.au" tvg-name=" 7TWO Gold Coast" tvg-logo="https://i.mjh.nz/.images/7two-bri.png" group-title="IPTV", 7TWO Gold Coast
 https://i.mjh.nz/7two-bri.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
-#EXTINF:-1 tvg-chno="92" tvg-id="mjh-gem-qld" tvg-name=" 9Gem Gold Coast" tvg-logo="https://raw.githubusercontent.com/CrazyErrorGamer/IPTV/main/gem.png" group-title="IPTV", 9Gem Gold Coast
+#EXTINF:-1 tvg-chno="92" tvg-id="391183auepg.com.au" tvg-name=" 9Gem Gold Coast" tvg-logo="https://raw.githubusercontent.com/CrazyErrorGamer/IPTV/main/gem.png" group-title="IPTV", 9Gem Gold Coast
 https://i.mjh.nz/gem-qld.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
-#EXTINF:-1 tvg-chno="93" tvg-id="mjh-go-qld" tvg-name=" 9Go! Gold Coast" tvg-logo="https://raw.githubusercontent.com/CrazyErrorGamer/IPTV/main/go.png" group-title="IPTV", 9Go! Gold Coast
+#EXTINF:-1 tvg-chno="93" tvg-id="407658auepg.com.au" tvg-name=" 9Go! Gold Coast" tvg-logo="https://raw.githubusercontent.com/CrazyErrorGamer/IPTV/main/go.png" group-title="IPTV", 9Go! Gold Coast
 https://i.mjh.nz/go-qld.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
-#EXTINF:-1 tvg-chno="94" tvg-id="mjh-life-qld" tvg-name=" 9Life Gold Coast" tvg-logo="https://raw.githubusercontent.com/CrazyErrorGamer/IPTV/main/life.png" group-title="IPTV", 9Life Gold Coast
+#EXTINF:-1 tvg-chno="94" tvg-id="431512auepg.com.au" tvg-name=" 9Life Gold Coast" tvg-logo="https://raw.githubusercontent.com/CrazyErrorGamer/IPTV/main/life.png" group-title="IPTV", 9Life Gold Coast
 https://i.mjh.nz/life-qld.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
-#EXTINF:-1 tvg-chno="96" tvg-id="mjh-rush-qld" tvg-name=" 9Rush Gold Coast" tvg-logo="https://raw.githubusercontent.com/CrazyErrorGamer/IPTV/main/rush.png" group-title="IPTV", 9Rush Gold Coast
+#EXTINF:-1 tvg-chno="96" tvg-id="432221auepg.com.au" tvg-name=" 9Rush Gold Coast" tvg-logo="https://raw.githubusercontent.com/CrazyErrorGamer/IPTV/main/rush.png" group-title="IPTV", 9Rush Gold Coast
 https://i.mjh.nz/rush-qld.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
-#EXTINF:-1 tvg-chno="10" tvg-id="mjh-10-qld" tvg-name=" 10" tvg-logo="https://i.mjh.nz/.images/ten-nsw.png" group-title="IPTV", 10
+#EXTINF:-1 tvg-chno="10" tvg-id="246955auepg.com.au" tvg-name=" 10" tvg-logo="https://i.mjh.nz/.images/ten-nsw.png" group-title="IPTV", 10
 https://i.mjh.nz/10-qld.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
-#EXTINF:-1 tvg-chno="12" tvg-id="mjh-10bold-qld" tvg-name=" 10 BOLD" tvg-logo="https://i.mjh.nz/.images/10bold-nsw.png" group-title="IPTV", 10 BOLD
+#EXTINF:-1 tvg-chno="12" tvg-id="388611auepg.com.au" tvg-name=" 10 BOLD" tvg-logo="https://i.mjh.nz/.images/10bold-nsw.png" group-title="IPTV", 10 BOLD
 https://i.mjh.nz/10bold-qld.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
-#EXTINF:-1 tvg-chno="11" tvg-id="mjh-10peach-qld" tvg-name=" 10 Peach" tvg-logo="https://i.mjh.nz/.images/10peach-nsw.png" group-title="IPTV", 10 Peach
+#EXTINF:-1 tvg-chno="11" tvg-id="403765auepg.com.au" tvg-name=" 10 Peach" tvg-logo="https://i.mjh.nz/.images/10peach-nsw.png" group-title="IPTV", 10 Peach
 https://i.mjh.nz/10peach-qld.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
