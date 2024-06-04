@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="22" tvg-id="mjh-abc-kids" tvg-name=" ABC Kids" tvg-logo="https://i.mjh.nz/.images/abc-kids.png" group-title="FTA Channels", ABCKids
+#EXTINF:-1 tvg-chno="22" tvg-id="mjh-abc-kids" tvg-name=" ABC Kids" tvg-logo="https://i.mjh.nz/.images/abc-kids.png" group-title="FTA Channels", ABC Kids
 https://c.mjh.nz/abc-kids.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
-#EXTINF:-1 tvg-chno="23" tvg-id="411316auepg.com.au" tvg-name=" ABC ME" tvg-logo="https://i.mjh.nz/.images/abc-me.png" group-title="FTA Channels", ABC ME
+#EXTINF:-1 tvg-chno="23" tvg-id="411316auepg.com.au" tvg-name=" ABC ME" tvg-logo="TO BE SOURCED" group-title="FTA Channels", ABC Entertains
 https://c.mjh.nz/abc-me.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 #EXTINF:-1 tvg-chno="24" tvg-id="391135auepg.com.au" tvg-name=" ABC NEWS" tvg-logo="https://i.mjh.nz/.images/abc-news.png" group-title="FTA Channels", ABC NEWS
 https://c.mjh.nz/abc-news.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 #EXTINF:-1 tvg-chno="20" tvg-id="246952auepg.com.au" tvg-name=" ABC TV" tvg-logo="https://raw.githubusercontent.com/CrazyErrorGamer/IPTV/main/abctv.png" group-title="FTA Channels", ABC TV
 https://c.mjh.nz/abc-qld.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
-#EXTINF:-1 tvg-chno="22" tvg-id="mjh-abc-tv-plus" tvg-name=" ABC TV Plus" tvg-logo="https://i.mjh.nz/.images/abc-tv-plus.png" group-title="FTA Channels", ABC TVPlus
+#EXTINF:-1 tvg-chno="22" tvg-id="mjh-abc-tv-plus" tvg-name=" ABC TV Plus" tvg-logo="TO BE SOURCED" group-title="FTA Channels", ABC Family
 https://c.mjh.nz/abc-tv-plus.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 #EXTINF:-1 tvg-chno="90" tvg-id="260450auepg.com.au" tvg-name=" Channel 9 Gold Coast" tvg-logo="https://raw.githubusercontent.com/CrazyErrorGamer/IPTV/main/nine.png" group-title="FTA Channels", Channel 9 Gold Coast
 https://9now-livestreams-v2.akamaized.net/prod/simulcast/gcq/ch9/hls/r1/index.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
