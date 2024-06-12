@@ -51,7 +51,7 @@ https://i.mjh.nz/life-qld.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3
 https://i.mjh.nz/rush-qld.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 #EXTINF:-1 tvg-chno="10" tvg-id="246955auepg.com.au" tvg-name=" 10" tvg-logo="https://i.mjh.nz/.images/ten-nsw.png" group-title="IPTV", 10
 https://i.mjh.nz/10-qld.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
-#EXTINF:-1 tvg-chno="12" tvg-id="388611auepg.com.au" tvg-name=" 10 BOLD" tvg-logo="https://i.mjh.nz/.images/10bold-nsw.png" group-title="IPTV", 10 BOLD
+#EXTINF:-1 tvg-chno="12" tvg-id="388611auepg.com.au" tvg-name=" 10 BOLD Drama" tvg-logo="https://i.mjh.nz/.images/10bold-nsw.png" group-title="IPTV", 10 BOLD
 https://i.mjh.nz/10bold-qld.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
-#EXTINF:-1 tvg-chno="11" tvg-id="403765auepg.com.au" tvg-name=" 10 Peach" tvg-logo="https://i.mjh.nz/.images/10peach-nsw.png" group-title="IPTV", 10 Peach
+#EXTINF:-1 tvg-chno="11" tvg-id="403765auepg.com.au" tvg-name=" 10 Peach Comedy" tvg-logo="https://i.mjh.nz/.images/10peach-nsw.png" group-title="IPTV", 10 Peach
 https://i.mjh.nz/10peach-qld.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
