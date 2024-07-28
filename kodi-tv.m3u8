@@ -38,7 +38,7 @@ https://i.mjh.nz/7bravo-FAST.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.
 #EXTINF:-1 tvg-chno="76" tvg-id="431816auepg.com.au" tvg-name=" 7flix Gold Coast" tvg-logo="https://i.mjh.nz/.images/7flix-bri.png" group-title="IPTV", 7flix Gold Coast
 https://i.mjh.nz/7flix-bri.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 #EXTINF:-1 tvg-chno="74" tvg-id="432005auepg.com.au" tvg-name=" 7mate Gold Coast" tvg-logo="https://i.mjh.nz/.images/7mate-bri.png" group-title="IPTV", 7mate Gold Coast
-https://tbs.cdn.7livecloud.io/hls/live/BRI3/master.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+https://i.mjh.nz/7mate-bri.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 #EXTINF:-1 tvg-chno="72" tvg-id="410800auepg.com.au" tvg-name=" 7TWO Gold Coast" tvg-logo="https://i.mjh.nz/.images/7two-bri.png" group-title="IPTV", 7TWO Gold Coast
 https://i.mjh.nz/7two-bri.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 #EXTINF:-1 tvg-chno="92" tvg-id="391183auepg.com.au" tvg-name=" 9Gem Gold Coast" tvg-logo="https://raw.githubusercontent.com/CrazyErrorGamer/IPTV/main/gem.png" group-title="IPTV", 9Gem Gold Coast
