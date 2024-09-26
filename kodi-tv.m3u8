@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-chno="22" tvg-id="mjh-abc-kids" tvg-name=" ABC Kids", ABC Kids
 https://c.mjh.nz/abc-kids.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
-#EXTINF:-1 tvg-chno="23" tvg-id="411316auepg.com.au" tvg-name=" ABC ME" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/IPTV/main/logos/ABCEntertains.png", ABC Entertains
+#EXTINF:-1 tvg-chno="23" tvg-id="411320auepg.com.au" tvg-name=" ABC ME" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/IPTV/main/logos/ABCEntertains.png", ABC Entertains
 https://c.mjh.nz/abc-me.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 #EXTINF:-1 tvg-chno="24" tvg-id="391135auepg.com.au" tvg-name=" ABC NEWS" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/IPTV/main/logos/ABCNEWS.png", ABC NEWS
 https://c.mjh.nz/abc-news.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
@@ -15,7 +15,7 @@ https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/gcq/ch9/hls/r1/ind
 https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/nlm/ch9/hls/r1/index.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.3
 #EXTINF:-1 tvg-chno="13" tvg-id="432258auepg.com.au" tvg-name=" Nickelodeon" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/IPTV/main/logos/Nickelodeon.png", Nickelodeon 
 https://i.mjh.nz/10shake-qld.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
-#EXTINF:-1 tvg-chno="34" tvg-id="432630auepg.com.au" tvg-name=" NITV" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/IPTV/logos/NITV.png", NITV
+#EXTINF:-1 tvg-chno="34" tvg-id="mjh-sbs-nitv" tvg-name=" NITV" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/IPTV/logos/NITV.png", NITV
 https://i.mjh.nz/sbs-nitv.m3u8|x-forwarded-for=110.33.122.75&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 #EXTINF:-1 tvg-chno="78" tvg-id="431210auepg.com.au" tvg-name=" RACING.COM" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/IPTV/main/logos/RACINGCOM.png", RACING.COM
 https://i.mjh.nz/racing-FAST.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
@@ -27,7 +27,7 @@ https://i.mjh.nz/sbs.m3u8|x-forwarded-for=110.33.122.75&User-Agent=Mozilla/5.0%2
 https://i.mjh.nz/sbs-viceland.m3u8|x-forwarded-for=110.33.122.75&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 #EXTINF:-1 tvg-chno="32" tvg-id="432033auepg.com.au" tvg-name=" SBS World Movies" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/IPTV/main/logos/SBSWorldMovies.png", SBS World Movies
 https://i.mjh.nz/sbs-world-movies.m3u8|x-forwarded-for=110.33.122.75&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
-#EXTINF:-1 tvg-chno="35" tvg-id="432421auepg.com.au" tvg-name=" SBS WorldWatch" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/IPTV/main/logos/SBSWorldWatch.png", SBS WorldWatch
+#EXTINF:-1 tvg-chno="35" tvg-id="mjh-sbs-world-watch" tvg-name=" SBS WorldWatch" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/IPTV/main/logos/SBSWorldWatch.png", SBS WorldWatch
 https://i.mjh.nz/sbs-world-watch.m3u8|x-forwarded-for=110.33.122.75&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 #EXTINF:-1 tvg-chno="53" tvg-id="431952auepg.com.au" tvg-name=" Sky News Regional" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/IPTV/main/logos/SkyNews.png", Sky News Regional
 https://i.mjh.nz/sky-news-now.m3u8|x-forwarded-for=110.33.122.75&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
