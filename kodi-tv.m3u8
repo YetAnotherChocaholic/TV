@@ -15,7 +15,7 @@ https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/gcq/ch9/hls/r1/ind
 https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/nlm/ch9/hls/r1/index.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.3
 #EXTINF:-1 tvg-chno="13" tvg-id="432258auepg.com.au" tvg-name=" Nickelodeon" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/IPTV/main/logos/Nickelodeon.png", Nickelodeon 
 https://i.mjh.nz/10shake-qld.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
-#EXTINF:-1 tvg-chno="34" tvg-id="mjh-sbs-nitv" tvg-name=" NITV" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/IPTV/logos/NITV_34.png", NITV
+#EXTINF:-1 tvg-chno="34" tvg-id="mjh-sbs-nitv" tvg-name=" NITV" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/IPTV/logos/NITV.png", NITV
 https://i.mjh.nz/sbs-nitv.m3u8|x-forwarded-for=110.33.122.75&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 #EXTINF:-1 tvg-chno="78" tvg-id="431210auepg.com.au" tvg-name=" RACING.COM" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/IPTV/main/logos/RACINGCOM.png", RACING.COM
 https://i.mjh.nz/racing-FAST.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
