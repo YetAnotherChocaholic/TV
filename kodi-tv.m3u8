@@ -1,57 +1,86 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-chno="22" tvg-id="mjh-abc-kids" tvg-name=" ABC Kids", ABC Kids
 https://c.mjh.nz/abc-kids.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
 #EXTINF:-1 tvg-chno="23" tvg-id="411320auepg.com.au" tvg-name=" ABC ME" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/IPTV/main/logos/ABCEntertains.png", ABC Entertains
 https://c.mjh.nz/abc-me.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
 #EXTINF:-1 tvg-chno="24" tvg-id="391135auepg.com.au" tvg-name=" ABC NEWS" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/IPTV/main/logos/ABCNEWS.png", ABC NEWS
 https://c.mjh.nz/abc-news.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
 #EXTINF:-1 tvg-chno="20" tvg-id="246952auepg.com.au" tvg-name=" ABC TV" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/IPTV/main/logos/ABCTV.png", ABC TV
 https://c.mjh.nz/abc-qld.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
 #EXTINF:-1 tvg-chno="22" tvg-id="mjh-abc-tv-plus" tvg-name=" ABC TV Plus" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/IPTV/main/logos/ABCFamily.png", ABC Family
 https://c.mjh.nz/abc-tv-plus.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
-#EXTINF:-1 tvg-chno="90" tvg-id="431508auepg.com.au" tvg-name=" Channel 9 Gold Coast" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/IPTV/main/logos/Nine.png", Channel 9 Gold Coast
+
+#EXTINF:-1 tvg-chno="90" tvg-id="260450auepg.com.au" tvg-name=" Channel 9 Gold Coast" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/IPTV/main/logos/Nine.png", Channel 9 Gold Coast
 https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/gcq/ch9/hls/r1/index.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.3
+
 #EXTINF:-1 tvg-chno="80" tvg-id="431558auepg.com.au" tvg-name=" Nine-NBN Gold Coast" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/IPTV/main/logos/NineNBN.png", Nine-NBN Gold Coast
 https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/nlm/ch9/hls/r1/index.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.3
-#EXTINF:-1 tvg-chno="13" tvg-id="mjh-10shake-qld" tvg-name=" Nickelodeon" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/IPTV/main/logos/Nickelodeon.png", Nickelodeon 
+
+#EXTINF:-1 tvg-chno="13" tvg-id="432258auepg.com.au" tvg-name=" Nickelodeon" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/IPTV/main/logos/Nickelodeon.png", Nickelodeon 
 https://d1nti87v55zvqc.cloudfront.net/out/v1/8a1d942f281143e0b5d1e0b5179fc160/index.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
-#EXTINF:-1 tvg-chno="34" tvg-id="mjh-sbs-nitv" tvg-name=" NITV" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/IPTV/logos/NITV.png", NITV
-https://sbs-live-prod-01.akamaized.net/Content/HLS_AES_TSO/live/geo/channel(nitv)/master.m3u8?hdnea=st%3D1729847189%7Eexp%3D1729865189%7Eacl%3D%2FContent%2FHLS_AES_TSO%2Flive%2Fgeo%2Fchannel%28nitv%29%2F%2A%7Ehmac%3Dfd67b3151d1f2f7b46dea18082b851d5e4a97248ec7751a83c7182af1aacd665|x-forwarded-for=110.33.122.75&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
 #EXTINF:-1 tvg-chno="78" tvg-id="431210auepg.com.au" tvg-name=" RACING.COM" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/IPTV/main/logos/RACINGCOM.png", RACING.COM
 https://npc-live-sevennetwork.akamaized.net/hls/live/RAC/master.m3u8?appId=7plus&deviceType=androidtv&platformType=tv&ppId=44c616d5f57262ed59884ae4707d3d4542646b84d1187b4e13e68fabf698745c&videoType=live&accountId=5650355166001&advertId=null&uaId=44c616d5f57262ed59884ae4707d3d4542646b84d1187b4e13e68fabf698745c&optinDeviceType=adid&optinAdTracking=0&pc=6500&deviceId=fm-k_zfMS1it5axvWRqkRt&mstatus=true&omsdk=JnNka19hcGlzPTc%3d&ozid=b09f7dc3-3999-47c7-a09f-8dce404c0455&referenceId=RAC&vid=5652231375001&yo.hb=5000&yo.ac=true&pp=csai-tv&custParams=y%253D2%2526c%253Db%2526dpc%253D1045%2526oi1%253Db1c02461-afe0-fd00-7bd1-7880ab0d6513%2526od1%253DB4%2526ois%253D2352bf48-cbd9-72c5-c82c-0ef56b83968c%2526ouc%253D1&y=2&c=b&dpc=1045&yo.lb=400&hdnts=exp=1729386316~acl=/*~hmac=07940b8bca7e4189201b001d608cef3eb21e48ce45813767ed5953b6067b28df|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
-#EXTINF:-1 tvg-chno="33" tvg-id="431491auepg.com.au" tvg-name=" SBS Food" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/IPTV/main/logos/SBSFood.png", SBS Food
-https://sbs-live-prod-01.akamaized.net/Content/HLS_AES_TSO/live/geo/channel(food)/master.m3u8?hdnea=st%3D1729847188%7Eexp%3D1729865188%7Eacl%3D%2FContent%2FHLS_AES_TSO%2Flive%2Fgeo%2Fchannel%28food%29%2F%2A%7Ehmac%3D70ab2a19dc3e9f293a188ac27bd8d420e49aa3327b1e0113b1148aca5a5c457c|x-forwarded-for=110.33.122.75&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%209n 
-#EXTINF:-1 tvg-chno="30" tvg-id="391140auepg.com.au" tvg-name=" SBS ONE" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/IPTV/main/logos/SBS.png", SBS ONE
-https://sbs-live-prod-01.akamaized.net/Content/HLS_AES_TSO/Live/geo/channel(sbs)/master.m3u8?hdnea=st%3D1729847187%7Eexp%3D1729865187%7Eacl%3D%2FContent%2FHLS_AES_TSO%2FLive%2Fgeo%2Fchannel%28sbs%29%2F%2A%7Ehmac%3D2bebaeabca78d525229e7cb768264161ec95f8e2d26321be79b9be5a388b9ff6|x-forwarded-for=110.33.122.75&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
-#EXTINF:-1 tvg-chno="31" tvg-id="431775auepg.com.au" tvg-name=" SBS VICELAND" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/IPTV/main/logos/SBSViceland.png", SBS VICELAND
-https://sbs-live-prod-01.akamaized.net/Content/HLS_AES_TSO/live/geo/channel(viceland)/master.m3u8?hdnea=st%3D1729847187%7Eexp%3D1729865187%7Eacl%3D%2FContent%2FHLS_AES_TSO%2Flive%2Fgeo%2Fchannel%28viceland%29%2F%2A%7Ehmac%3D33a9c589e56f21f785014a3bfd95d68df823a112ca033a4620368189e1fef256|x-forwarded-for=110.33.122.75&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
-#EXTINF:-1 tvg-chno="32" tvg-id="432033auepg.com.au" tvg-name=" SBS World Movies" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/IPTV/main/logos/SBSWorldMovies.png", SBS World Movies
-https://sbs-live-prod-01.akamaized.net/Content/HLS_AES_TSO/live/geo/channel(worldmovies)/master.m3u8?hdnea=st%3D1729847188%7Eexp%3D1729865188%7Eacl%3D%2FContent%2FHLS_AES_TSO%2Flive%2Fgeo%2Fchannel%28worldmovies%29%2F%2A%7Ehmac%3D0bf2ab4282de09508bf02dee92014de39947444fe05a22ebe54cd37ec2b42a8a|x-forwarded-for=110.33.122.75&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
-#EXTINF:-1 tvg-chno="35" tvg-id="mjh-sbs-world-watch" tvg-name=" SBS WorldWatch" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/IPTV/main/logos/SBSWorldWatch.png", SBS WorldWatch
-https://sbs-live-prod-01.akamaized.net/Content/HLS_AES_TSO/live/geo/channel(worldwatch)/master.m3u8?hdnea=st%3D1729847189%7Eexp%3D1729865189%7Eacl%3D%2FContent%2FHLS_AES_TSO%2Flive%2Fgeo%2Fchannel%28worldwatch%29%2F%2A%7Ehmac%3D09ab4f3bc0c59e663b46251b72166efe6f9f379aec46f27319a795558bb1debf|x-forwarded-for=110.33.122.75&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 tvg-id="391140auepg.com.au" tvg-name=" SBS ONE" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/IPTV/main/logos/SBS.png" tvg-chno="30", SBS ONE
+https://i.mjh.nz/.r/sbs.m3u8
+
+#EXTINF:-1 tvg-id="431775auepg.com.au" tvg-name=" SBS VICELAND" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/IPTV/main/logos/SBSViceland.png" tvg-chno="31", SBS VICELAND
+https://i.mjh.nz/.r/sbs-viceland.m3u8
+
+#EXTINF:-1 tvg-id="432033auepg.com.au" tvg-name=" SBS World Movies" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/IPTV/main/logos/SBSWorldMovies.png" tvg-chno="32", SBS World Movies
+https://i.mjh.nz/.r/sbs-world-movies.m3u8
+
+#EXTINF:-1 tvg-id="431491auepg.com.au" tvg-name=" SBS Food" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/IPTV/main/logos/SBSFood.png" tvg-chno="33", SBS Food
+https://i.mjh.nz/.r/sbs-food.m3u8
+
+#EXTINF:-1 tvg-id="289726auepg.com.au" tvg-name=" NITV" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/IPTV/main/logos/NITV.png" tvg-chno="34", NITV
+https://i.mjh.nz/.r/sbs-nitv.m3u8
+
+#EXTINF:-1 tvg-id="432415auepg.com.au" tvg-name=" SBS WorldWatch" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/IPTV/main/logos/SBSWorldWatch.png" tvg-chno="35", SBS WorldWatch
+https://i.mjh.nz/.r/sbs-world-watch.m3u8
+
 #EXTINF:-1 tvg-chno="53" tvg-id="431952auepg.com.au" tvg-name=" Sky News Regional" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/IPTV/main/logos/SkyNews.png", Sky News Regional
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00663-skynews-skynewsau-samsungau/playlist.m3u8|x-forwarded-for=110.33.122.75&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
 #EXTINF:-1 tvg-chno="70" tvg-id="431871auepg.com.au" tvg-name=" 7 Gold Coast" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/IPTV/main/logos/Seven.png", 7 Gold Coast
 https://tbs.cdn.7livecloud.io/hls/live/GLD1/master.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
 #EXTINF:-1 tvg-chno="75" tvg-id="432452auepg.com.au" tvg-name=" 7Bravo Gold Coast" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/IPTV/main/logos/7Bravo.png", 7Bravo Gold Coast
 https://mpl.cdn.7livecloud.io/out/v1/5d39b21ef5d84782a9e4e374e28f2536/master.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
 #EXTINF:-1 tvg-chno="76" tvg-id="431816auepg.com.au" tvg-name=" 7flix Gold Coast" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/IPTV/main/logos/7flix.png", 7flix Gold Coast
 https://tbs.cdn.7livecloud.io/hls/live/BRI6/master.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
 #EXTINF:-1 tvg-chno="74" tvg-id="432005auepg.com.au" tvg-name=" 7mate Gold Coast" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/IPTV/main/logos/7mate.png", 7mate Gold Coast
 https://tbs.cdn.7livecloud.io/hls/live/BRI3/master.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
 #EXTINF:-1 tvg-chno="72" tvg-id="410800auepg.com.au" tvg-name=" 7TWO Gold Coast" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/IPTV/main/logos/7two.png", 7TWO Gold Coast
 https://tbs.cdn.7livecloud.io/hls/live/BRI2/master.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
-#EXTINF:-1 tvg-chno="92" tvg-id="mjh-gem-qld" tvg-name=" 9Gem Gold Coast" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/IPTV/main/logos/9Gem.png", 9Gem Gold Coast
+
+#EXTINF:-1 tvg-chno="92" tvg-id="391183auepg.com.au" tvg-name=" 9Gem Gold Coast" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/IPTV/main/logos/9Gem.png", 9Gem Gold Coast
 https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/bne/gem/hls/r1/index.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
-#EXTINF:-1 tvg-chno="93" tvg-id="mjh-go-qld" tvg-name=" 9Go! Gold Coast" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/IPTV/main/logos/9Go.png", 9Go! Gold Coast
+
+#EXTINF:-1 tvg-chno="93" tvg-id="407658auepg.com.au" tvg-name=" 9Go! Gold Coast" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/IPTV/main/logos/9Go.png", 9Go! Gold Coast
 https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/bne/go/hls/r1/index.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
-#EXTINF:-1 tvg-chno="94" tvg-id="mjh-life-qld" tvg-name=" 9Life Gold Coast" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/IPTV/main/logos/9Life.png", 9Life Gold Coast
+
+#EXTINF:-1 tvg-chno="94" tvg-id="431512auepg.com.au" tvg-name=" 9Life Gold Coast" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/IPTV/main/logos/9Life.png", 9Life Gold Coast
 https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/bne/life/hls/r1/index.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
-#EXTINF:-1 tvg-chno="96" tvg-id="mjh-rush-qld" tvg-name=" 9Rush Gold Coast" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/IPTV/main/logos/9Rush.png", 9Rush Gold Coast
+
+#EXTINF:-1 tvg-chno="96" tvg-id="432221auepg.com.au" tvg-name=" 9Rush Gold Coast" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/IPTV/main/logos/9Rush.png", 9Rush Gold Coast
 https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/bne/rush/hls/r1/index.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
-#EXTINF:-1 tvg-chno="10" tvg-id="mjh-10-qld" tvg-name=" 10" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/IPTV/main/logos/10.png", 10
+
+#EXTINF:-1 tvg-chno="10" tvg-id="431562auepg.com.au" tvg-name=" 10" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/IPTV/main/logos/10.png", 10
 https://dai.google.com/ssai/event/qOi3HPO6Tw2L-U4x99U3IQ/master.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
-#EXTINF:-1 tvg-chno="12" tvg-id="mjh-10bold-qld" tvg-name=" 10 BOLD" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/IPTV/main/logos/10BOLD.png", 10 BOLD Drama
+
+#EXTINF:-1 tvg-chno="12" tvg-id="388611auepg.com.au" tvg-name=" 10 BOLD" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/IPTV/main/logos/10BOLD.png", 10 BOLD Drama
 https://dai.google.com/ssai/event/hTGpTa27ToagDXu0722vdA/master.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
-#EXTINF:-1 tvg-chno="11" tvg-id="mjh-10peach-qld" tvg-name=" 10 Peach" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/IPTV/main/logos/10Peach.png", 10 Peach Comedy
+
+#EXTINF:-1 tvg-chno="11" tvg-id="403765auepg.com.au" tvg-name=" 10 Peach" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/IPTV/main/logos/10Peach.png", 10 Peach Comedy
 https://dai.google.com/ssai/event/V6NokbM8Ra2uKqcQj1uWaA/master.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
