@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-chno="10" tvg-id="431562auepg.com.au" tvg-name=" 10" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/TV/main/logos/10.png", 10
-https://i.mjh.nz/.r/10-qld.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+https://net10-livestream.play.cbsi.video/10QLD/stream.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 
 #EXTINF:-1 tvg-chno="11" tvg-id="403765auepg.com.au" tvg-name=" 10 Peach" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/TV/main/logos/10Peach.png", 10 Peach Comedy
-https://i.mjh.nz/.r/10peach-qld.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+https://net10-livestream.play.cbsi.video/10PeachQLD/stream.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 
 #EXTINF:-1 tvg-chno="12" tvg-id="388611auepg.com.au" tvg-name=" 10 BOLD" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/TV/main/logos/10BOLD.png", 10 BOLD Drama
-https://i.mjh.nz/.r/10bold-qld.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+https://net10-livestream.play.cbsi.video/10BoldQLD/stream.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 
 #EXTINF:-1 tvg-chno="13" tvg-id="432258auepg.com.au" tvg-name=" Nickelodeon" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/TV/main/logos/Nickelodeon.png", Nickelodeon 
 https://d1nti87v55zvqc.cloudfront.net/out/v1/8a1d942f281143e0b5d1e0b5179fc160/index.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
