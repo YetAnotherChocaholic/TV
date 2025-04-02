@@ -28,22 +28,22 @@ https://c.mjh.nz/abc-me.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%
 https://c.mjh.nz/abc-news.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 
 #EXTINF:-1 tvg-id="391140auepg.com.au" tvg-name=" SBS ONE" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/TV/main/logos/SBS.png" tvg-chno="30", SBS ONE
-https://sbs-live-prod-01.akamaized.net/Content/HLS_AES_TS/Live/geo/channel(sbs)/master.m3u8?hdnea=st=1743319590~exp=1743319890~acl=*~id=e3064337-4058-423b-88f2-27fb9eedcc25~hmac=2e7349b287556d904807b2f3887ffa866e277af608d0dac33705ebd210faf25d&originpath=/linear/hls/pb/event/57xy4s1FS1-sXx624PRryg/stream/1b76b4f0-2c2b-4e11-a1a1-e65bf7cceb61:SIN/master.m3u8
+https://i.mjh.nz/.r/sbs.m3u8
 
 #EXTINF:-1 tvg-id="431775auepg.com.au" tvg-name=" SBS VICELAND" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/TV/main/logos/SBSViceland.png" tvg-chno="31", SBS VICELAND
-https://sbs-live-prod-01.akamaized.net/Content/HLS_AES_TS/live/geo/channel(viceland)/master.m3u8?hdnea=st=1743319687~exp=1743319987~acl=*~id=e70effc9-4ad8-4725-b839-ce6db38441fc~hmac=7cc6e609a7e33edaa3c20d349fe07ef35ec44dcd7831731fced792acb691c41d&originpath=/linear/hls/pb/event/-55BKEWMTourUcUrCJnKqg/stream/4834b677-bbd3-489a-a6e9-543e58751c3e:SIN2/master.m3u8
+https://i.mjh.nz/.r/sbs-viceland.m3u8
 
 #EXTINF:-1 tvg-id="432033auepg.com.au" tvg-name=" SBS World Movies" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/TV/main/logos/SBSWorldMovies.png" tvg-chno="32", SBS World Movies
-https://sbs-live-prod-01.akamaized.net/Content/HLS_AES_TS/live/geo/channel(worldmovies)/master.m3u8?hdnea=st=1743319771~exp=1743320071~acl=*~id=7031a58d-5931-40be-b93e-096bb8f9b432~hmac=44e467ee82f098cd676f4c0e0d1a03921b6ae7d9f46e4e5de7363fac0b52e0df&originpath=/linear/hls/pb/event/hk8zv5vkQsS6OO0FkiiHrA/stream/e1e3a502-bff0-4cb6-8080-87cd5b53e81f:TPE/master.m3u8
+https://i.mjh.nz/.r/sbs-world-movies.m3u8
 
 #EXTINF:-1 tvg-id="431491auepg.com.au" tvg-name=" SBS Food" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/TV/main/logos/SBSFood.png" tvg-chno="33", SBS Food
-https://sbs-live-prod-01.akamaized.net/Content/HLS_AES_TS/live/geo/channel(food)/master.m3u8?hdnea=st=1743319724~exp=1743320024~acl=*~id=882a4f24-65ea-4e45-a752-a18ba2a438ca~hmac=d978e0ec0d30299e83d22ccf575406d4f991779a22bf7c27a470fca0275f3613&originpath=/linear/hls/pb/event/jebMy0KUTe-xe7RbPTaBDA/stream/6d23724b-9f6f-45c7-a147-575f119b49d5:SIN2/master.m3u8
+https://i.mjh.nz/.r/sbs-food.m3u8
 
 #EXTINF:-1 tvg-id="430922auepg.com.au" tvg-name=" NITV" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/TV/main/logos/NITV.png" tvg-chno="34", NITV
-https://sbs-live-prod-01.akamaized.net/Content/HLS_AES_TS/live/geo/channel(nitv)/master.m3u8?hdnea=st=1743319805~exp=1743320105~acl=*~id=ef39c848-0680-402c-a200-f38f5ee2a036~hmac=2a553b4647893611346bc300cf5412cddeb71226c18917c1517440cc14637b61&originpath=/linear/hls/pb/event/nUp81RPuRVSmDcOjT9yOKw/stream/b41a06de-3cc0-4fe9-9cfa-14b1cae768fb:SIN2/master.m3u8
+https://i.mjh.nz/.r/sbs-nitv.m3u8
 
 #EXTINF:-1 tvg-id="mjh-sbs-world-watch" tvg-name=" SBS WorldWatch" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/TV/main/logos/SBSWorldWatch.png" tvg-chno="35", SBS WorldWatch
-https://sbs-live-prod-01.akamaized.net/Content/HLS_AES_TS/Live/geo/channel(worldwatch)/master.m3u8?hdnea=st=1743319841~exp=1743320141~acl=*~id=341c46ab-fd92-4cb0-a140-455b5c181043~hmac=d2dbf4b976b2edf977c921d7ca3ab73fea7c0bc45982b3525492d023a25b8263&originpath=/linear/hls/pb/event/5Zlin5asRcacHXDVbxd-CQ/stream/967c302d-387c-43ae-bf73-6ee592657d05:SIN2/master.m3u8
+https://i.mjh.nz/.r/sbs-world-watch.m3u8
 
 #EXTINF:-1 tvg-chno="53" tvg-id="431952auepg.com.au" tvg-name=" Sky News Regional" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/TV/main/logos/SkyNews.png", Sky News Regional
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00663-skynews-skynewsau-samsungau/playlist.m3u8|x-forwarded-for=110.33.122.75&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
