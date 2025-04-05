@@ -27,7 +27,7 @@ https://c.mjh.nz/abc-me.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%
 #EXTINF:-1 tvg-chno="24" tvg-id="391138auepg.com.au" tvg-name=" ABC NEWS" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/TV/main/logos/ABCNEWS.png", ABC NEWS
 https://c.mjh.nz/abc-news.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 
-#EXTINF:-1 tvg-id="" tvg-name=" SBS channels not working" tvg-chno="30", SBS channels not working
+#EXTINF:-1 tvg-id="SBSchannelsnotworking.d30" tvg-name=" SBS channels not working" tvg-chno="30", SBS channels not working
 https://raw.githubusercontent.com/YetAnotherChocaholic/TV/refs/heads/main/dreamscene.webm
 
 #EXTINF:-1 tvg-id="391140auepg.com.au" tvg-name=" SBS ONE" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/TV/main/logos/SBS.png" tvg-chno="30", SBS ONE
