@@ -42,7 +42,7 @@ https://i.mjh.nz/.r/sbs-food.m3u8
 #EXTINF:-1 tvg-id="430922auepg.com.au" tvg-name=" NITV" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/TV/main/logos/NITV.png" tvg-chno="34", NITV
 https://i.mjh.nz/.r/sbs-nitv.m3u8
 
-#EXTINF:-1 tvg-id="432415auepg.com.au" tvg-name=" SBS WorldWatch" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/TV/main/logos/SBSWorldWatch.png" tvg-chno="35", SBS WorldWatch
+#EXTINF:-1 tvg-id="SBSWorldWatch.d120" tvg-name=" SBS WorldWatch" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/TV/main/logos/SBSWorldWatch.png" tvg-chno="35", SBS WorldWatch
 https://i.mjh.nz/.r/sbs-world-watch.m3u8
 
 #EXTINF:-1 tvg-chno="53" tvg-id="431952auepg.com.au" tvg-name=" Sky News Regional" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/TV/main/logos/SkyNews.png", Sky News Regional
