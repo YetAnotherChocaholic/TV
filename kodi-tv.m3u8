@@ -30,7 +30,7 @@ https://c.mjh.nz/abc-news.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3
 #EXTINF:-1 tvg-id="391142auepg.com.au" tvg-name=" SBS ONE" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/TV/main/logos/SBS.png" tvg-chno="30", SBS ONE
 https://i.mjh.nz/.r/sbs.m3u8
 
-#EXTINF:-1 tvg-id="264783auepg.com.au" tvg-name=" SBS VICELAND" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/TV/main/logos/SBSViceland.png" tvg-chno="31", SBS VICELAND
+#EXTINF:-1 tvg-id="mjh-sbs-viceland" tvg-name=" SBS VICELAND" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/TV/main/logos/SBSViceland.png" tvg-chno="31", SBS VICELAND
 https://i.mjh.nz/.r/sbs-viceland.m3u8
 
 #EXTINF:-1 tvg-id="432035auepg.com.au" tvg-name=" SBS World Movies" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/TV/main/logos/SBSWorldMovies.png" tvg-chno="32", SBS World Movies
