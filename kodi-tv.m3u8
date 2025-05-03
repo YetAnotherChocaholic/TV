@@ -30,19 +30,19 @@ https://c.mjh.nz/abc-news.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3
 #EXTINF:-1 tvg-id="391140auepg.com.au" tvg-name=" SBS ONE" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/TV/main/logos/SBS.png" tvg-chno="30", SBS ONE
 https://i.mjh.nz/.r/sbs.m3u8
 
-#EXTINF:-1 tvg-id="431775auepg.com.au" tvg-name=" SBS VICELAND" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/TV/main/logos/SBSViceland.png" tvg-chno="31", SBS VICELAND
+#EXTINF:-1 tvg-id="264783auepg.com.au" tvg-name=" SBS VICELAND" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/TV/main/logos/SBSViceland.png" tvg-chno="31", SBS VICELAND
 https://i.mjh.nz/.r/sbs-viceland.m3u8
 
-#EXTINF:-1 tvg-id="432033auepg.com.au" tvg-name=" SBS World Movies" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/TV/main/logos/SBSWorldMovies.png" tvg-chno="32", SBS World Movies
+#EXTINF:-1 tvg-id="432035auepg.com.au" tvg-name=" SBS World Movies" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/TV/main/logos/SBSWorldMovies.png" tvg-chno="32", SBS World Movies
 https://i.mjh.nz/.r/sbs-world-movies.m3u8
 
-#EXTINF:-1 tvg-id="431491auepg.com.au" tvg-name=" SBS Food" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/TV/main/logos/SBSFood.png" tvg-chno="33", SBS Food
+#EXTINF:-1 tvg-id="431494auepg.com.au" tvg-name=" SBS Food" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/TV/main/logos/SBSFood.png" tvg-chno="33", SBS Food
 https://i.mjh.nz/.r/sbs-food.m3u8
 
-#EXTINF:-1 tvg-id="430922auepg.com.au" tvg-name=" NITV" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/TV/main/logos/NITV.png" tvg-chno="34", NITV
+#EXTINF:-1 tvg-id="430924auepg.com.au" tvg-name=" NITV" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/TV/main/logos/NITV.png" tvg-chno="34", NITV
 https://i.mjh.nz/.r/sbs-nitv.m3u8
 
-#EXTINF:-1 tvg-id="432415auepg.com.au" tvg-name=" SBS WorldWatch" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/TV/main/logos/SBSWorldWatch.png" tvg-chno="35", SBS WorldWatch
+#EXTINF:-1 tvg-id="432421auepg.com.au" tvg-name=" SBS WorldWatch" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/TV/main/logos/SBSWorldWatch.png" tvg-chno="35", SBS WorldWatch
 https://i.mjh.nz/.r/sbs-world-watch.m3u8
 
 #EXTINF:-1 tvg-chno="53" tvg-id="431952auepg.com.au" tvg-name=" Sky News Regional" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/TV/main/logos/SkyNews.png", Sky News Regional
@@ -57,7 +57,7 @@ https://tbs.cdn.7livecloud.io/hls/live/BRI2/master.m3u8|User-Agent=Mozilla/5.0%2
 #EXTINF:-1 tvg-chno="74" tvg-id="432005auepg.com.au" tvg-name=" 7mate Gold Coast" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/TV/main/logos/7mate.png", 7mate Gold Coast
 https://i.mjh.nz/.r/7mate-bri.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 
-#EXTINF:-1 tvg-id="432448auepg.com.au" tvg-name=" 7Bravo Gold Coast" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/TV/main/logos/7Bravo.png" tvg-chno="75", 7Bravo Gold Coast
+#EXTINF:-1 tvg-id="432452auepg.com.au" tvg-name=" 7Bravo Gold Coast" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/TV/main/logos/7Bravo.png" tvg-chno="75", 7Bravo Gold Coast
 https://mpl.cdn.7livecloud.io/out/v1/5d39b21ef5d84782a9e4e374e28f2536/master.m3u8
 
 #EXTINF:-1 tvg-chno="76" tvg-id="431816auepg.com.au" tvg-name=" 7flix Gold Coast" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/TV/main/logos/7flix.png", 7flix Gold Coast
