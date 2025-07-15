@@ -49,13 +49,13 @@ https://i.mjh.nz/.r/sbs-6nat.m3u8
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00663-skynews-skynewsau-samsungau/playlist.m3u8|x-forwarded-for=110.33.122.75&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 
 #EXTINF:-1 tvg-chno="70" tvg-id="286937auepg.com.au" tvg-name=" 7 Gold Coast" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/TV/main/logos/Seven.png", 7 Gold Coast
-https://i.mjh.nz/.r/seven-bri.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/137.0.7151.122%20Safari/537.36&seekable=0&referer=%20
+https://i.mjh.nz/.r/seven-bri.m3u8|user-agent=otg/1.5.1%20%28AppleTv%20Apple%20TV%204%3B%20tvOS16.0%3B%20appletv.client%29%20libcurl/7.58.0%20OpenSSL/1.0.2o%20zlib/1.2.11%20clib/1.8.56&seekable=0&referer=%20
 
 #EXTINF:-1 tvg-chno="72" tvg-id="410800auepg.com.au" tvg-name=" 7TWO Gold Coast" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/TV/main/logos/7two.png", 7two Gold Coast
 https://tbs.cdn.7livecloud.io/hls/live/BRI2/master.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/137.0.7151.122%20Safari/537.36&seekable=0&referer=%20
 
 #EXTINF:-1 tvg-chno="74" tvg-id="432005auepg.com.au" tvg-name=" 7mate Gold Coast" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/TV/main/logos/7mate.png", 7mate Gold Coast
-https://i.mjh.nz/.r/7mate-bri.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/137.0.7151.122%20Safari/537.36&seekable=0&referer=%20
+https://i.mjh.nz/.r/7mate-bri.m3u8|user-agent=otg/1.5.1%20%28AppleTv%20Apple%20TV%204%3B%20tvOS16.0%3B%20appletv.client%29%20libcurl/7.58.0%20OpenSSL/1.0.2o%20zlib/1.2.11%20clib/1.8.56&seekable=0&referer=%20
 
 #EXTINF:-1 tvg-id="432452auepg.com.au" tvg-name=" 7Bravo Gold Coast" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/TV/main/logos/7Bravo.png" tvg-chno="75", 7Bravo Gold Coast
 https://mpl.cdn.7livecloud.io/out/v1/5d39b21ef5d84782a9e4e374e28f2536/master.m3u8
