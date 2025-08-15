@@ -66,23 +66,20 @@ https://tbs.cdn.7livecloud.io/hls/live/BRI6/master.m3u8|User-Agent=Mozilla/5.0%2
 #EXTINF:-1 tvg-id="431210auepg.com.au" tvg-name=" RACING.COM" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/TV/main/logos/RACINGCOM.png" tvg-chno="78", RACING.COM
 https://tbs.cdn.7livecloud.io/hls/live/RAC/master.m3u8|user-agent=otg/1.5.1%20%28AppleTv%20Apple%20TV%204%3B%20tvOS16.0%3B%20appletv.client%29%20libcurl/7.58.0%20OpenSSL/1.0.2o%20zlib/1.2.11%20clib/1.8.56&seekable=0&referer=%20
 
-#EXTINF:-1 tvg-chno="89" tvg-id="NineDown" tvg-name=" NOTE: Nine Channels Not Working", NOTE: Nine Channels Not Working 
-https://raw.githubusercontent.com/YetAnotherChocaholic/TV/refs/heads/main/NineDown.mp4|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.3
-
 #EXTINF:-1 tvg-chno="90" tvg-id="260450auepg.com.au" tvg-name=" Channel 9 Gold Coast" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/TV/main/logos/Nine.png", Channel 9 Gold Coast
-https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/gcq/ch9/hls/r1/index.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.3
+https://i.mjh.nz/.r/channel-9-gold-coast.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.3
 
 #EXTINF:-1 tvg-chno="92" tvg-id="391183auepg.com.au" tvg-name=" 9Gem Gold Coast" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/TV/main/logos/9Gem.png", 9Gem Gold Coast
-https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/bne/gem/hls/r1/index.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+https://i.mjh.nz/.r/gem-qld.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 
 #EXTINF:-1 tvg-chno="93" tvg-id="407658auepg.com.au" tvg-name=" 9Go! Gold Coast" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/TV/main/logos/9Go.png", 9Go! Gold Coast
-https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/bne/go/hls/r1/index.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+https://i.mjh.nz/.r/go-qld.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 
 #EXTINF:-1 tvg-chno="94" tvg-id="431512auepg.com.au" tvg-name=" 9Life Gold Coast" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/TV/main/logos/9Life.png", 9Life Gold Coast
-https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/bne/life/hls/r1/index.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+https://i.mjh.nz/.r/life-qld.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 
 #EXTINF:-1 tvg-chno="96" tvg-id="432221auepg.com.au" tvg-name=" 9Rush Gold Coast" tvg-logo="https://raw.githubusercontent.com/YetAnotherChocaholic/TV/main/logos/9Rush.png", 9Rush Gold Coast
-https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/bne/rush/hls/r1/index.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+https://i.mjh.nz/.r/rush-qld.m3u8|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 
 
 
